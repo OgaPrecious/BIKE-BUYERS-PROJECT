@@ -12,5 +12,8 @@ This project analyses bike sales data to identify trends, patterns, and insights
 ## Methodology
 *Data cleaning 
 *Pivot tables to analyse and group data
-*Data Visualization using Excel charts and dashboards
+*Data Visualization using Excel charts and dashboard 
+![Screenshot](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/IMG_20250616_130643_045.jpg)
+
+
 
