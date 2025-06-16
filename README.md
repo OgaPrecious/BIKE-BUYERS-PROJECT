@@ -14,5 +14,3 @@ This project analyses bike sales data to identify trends, patterns, and insights
 *Pivot tables to analyse and group data
 *Data Visualization using Excel charts and dashboards
 
-## Files
-
