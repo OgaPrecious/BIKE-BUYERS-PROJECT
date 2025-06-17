@@ -51,8 +51,9 @@ Microsoft Excel
 
 
 # Exploratory Data Analysis
-## Average Income per Purchase by gender: the analysis reveals interesting insights:
-#Female
+## Average Income per Purchase by gender: 
+the analysis reveals interesting insights:
+# Female
 * Average income of females who purchased a bike: $59,259
 * Average income of females who didn't purchase a bike: $54,885
 # Male
@@ -71,10 +72,11 @@ This charts describes better![Customer Commute Distance](https://github.com/OgaP
 
 
 # Customer Age Bracket
-Age Group| Purchased| Didn't Purchase
-Adolescent| 24| 14
-Middle Age| 187| 185
-Old| 96| 32
+Age Group| Purchased| Didn't Purchase|
+|--------|---------|----------------|
+|Adolescent| 24| 14|
+|Middle Age| 187| 185|
+|Old| 96| 32|
 ![Customer Age Bracket](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Pivot%20Table%20two_1.png)
 This suggests:
 * Middle-aged individuals are more likely to buy bikes, with a nearly equal split between buyers and non-buyers.
@@ -82,7 +84,8 @@ This suggests:
 * Older adults have a lower purchase rate, with a significant majority not buying bikes.
 
 # Data visualization
-This shows a detailed charts of the visualization ![Dashboard](
+## These show detailed charts of the visualization
+![Dashboard](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Dashboard.png)
 
 # Key Performance Indicator
 The analysis reveals that income, commute distance and age are significant factors influencing bike buying behavior.
