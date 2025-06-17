@@ -64,7 +64,7 @@ This suggest that:
 * Males who purchased bikes also have a higher average income than those who didn't
 * Male bike buyers tend to have higher average incomes than female bike buyers.
 
-Here is a visualization showing that
+Here is a visualization showing that![Average Income Per Purchase](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Pivot%20table%201_2.png)
 
 # Customer Commute Distance
 This analysis shows that customers with shorter commutes tend to buy bikes more often
