@@ -45,13 +45,13 @@ The key variables analysed in this report are:
 Microsoft Excel
 
 # Methodology
-*Data cleaning 
-*Pivot tables to analyse and group data
-*Data Visualization using Excel charts and dashboard 
-![Screenshot](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/IMG_20250616_130643_045.jpg)
+* Data cleaning
+* Pivot tables to analyse and group data
+* Data Visualization using Excel charts and dashboard 
+
 
 # Exploratory Data Analysis
-Average Income per Purchase by gender: the analysis reveals interesting insights:
+## Average Income per Purchase by gender: the analysis reveals interesting insights:
 #Female
 * Average income of females who purchased a bike: $59,259
 * Average income of females who didn't purchase a bike: $54,885
@@ -63,27 +63,26 @@ This suggest that:
 * Females who purchased bikes have a higher average income than those who didn't
 * Males who purchased bikes also have a higher average income than those who didn't
 * Male bike buyers tend to have higher average incomes than female bike buyers.
-
-Here is a visualization showing that![Average Income Per Purchase](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Pivot%20table%201_2.png)
-
+Here is a visualization showing the ![Average Income Per Purchase](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Pivot%20table%201_1.png)                            
 # Customer Commute Distance
 This analysis shows that customers with shorter commutes tend to buy bikes more often
 customers with commute distances under 2 miles are more likely to purchase bikes.
-This charts describes better
+This charts describes better![Customer Commute Distance](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Pivot%20table%201_2.png)
+
 
 # Customer Age Bracket
 Age Group| Purchased| Didn't Purchase
 Adolescent| 24| 14
 Middle Age| 187| 185
 Old| 96| 32
-
+![Customer Age Bracket](https://github.com/OgaPrecious/Excel-Project-on-Bike-Sales-/blob/main/Pivot%20Table%20two_1.png)
 This suggests:
 * Middle-aged individuals are more likely to buy bikes, with a nearly equal split between buyers and non-buyers.
 * Adolescents are less likely to buy bikes, with a higher number of non-buyers
 * Older adults have a lower purchase rate, with a significant majority not buying bikes.
 
 # Data visualization
-This shows a detailed charts of the visualization
+This shows a detailed charts of the visualization ![Dashboard](
 
 # Key Performance Indicator
 The analysis reveals that income, commute distance and age are significant factors influencing bike buying behavior.
