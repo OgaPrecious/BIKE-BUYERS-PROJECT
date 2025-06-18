@@ -54,11 +54,11 @@ Microsoft Excel
 ## Average Income per Purchase by gender: 
 the analysis reveals interesting insights:
 # Female
-* Average income of females who purchased a bike: $59,259
-* Average income of females who didn't purchase a bike: $54,885
+* Average income of females who purchased a bike: $55,774
+* Average income of females who didn't purchase a bike: $53,440
 # Male
-* Average income of males who purchased a bike: $61,301
-* Average income of males who didn't purchase a bike: $59,432
+* Average income of males who purchased a bike: $60,124
+* Average income of males who didn't purchase a bike: $56,208
 
 This suggest that:
 * Females who purchased bikes have a higher average income than those who didn't
