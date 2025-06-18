@@ -109,6 +109,13 @@ Based on the findings, businesses can:
 Additional tables and figures can be included here to support the analysis.
 
 # Analysis done by 
-* Oga Precious
-* Email: ogapreciousukamaka@gmail.com
+📛 Oga Precious  
+📧 Email: ogapreciousukamaka@gmail.com  
+
+![image](https://github.com/user-attachments/assets/b1a9565f-352d-418f-8087-3b34341463ec) https://www.tiktok.com/@ogapreciousdataanalyst
+
+
+
+  
+
 
